@@ -1,0 +1,19 @@
+
+{
+  "languages": [
+    { "name": "C#", "level": 5 },
+    { "name": "Python", "level": 3 },
+    { "name": "C++", "level": 2 },
+    { "name": "HLSL/ShaderLab", "level": 4 }
+  ],
+  "engines": [
+    { "name": "Unity", "level": 5 },
+    { "name": "Unreal Engine", "level": 2 }
+  ],
+  "software": [
+    { "name": "Git", "level": 5 },
+    { "name": "Perforce", "level": 3 },
+    { "name": "Jira", "level": 4 },
+    { "name": "Blender", "level": 3 }
+  ]
+}

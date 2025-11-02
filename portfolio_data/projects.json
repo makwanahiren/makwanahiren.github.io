@@ -1,0 +1,45 @@
+
+[
+  {
+    "title": "Chrono-Shift Arena",
+    "category": "Game",
+    "image_thumb": "img/portfolio/portfolio-01-thumbnail.jpg",
+    "image_large": "img/portfolio/portfolio-01-large.jpg",
+    "description_short": "A fast-paced multiplayer FPS with time-manipulation mechanics.",
+    "description_long": "Chrono-Shift Arena is a competitive 5v5 shooter where players can rewind their own time, creating tactical opportunities for flanking and outplaying opponents. I was responsible for the core gameplay loop, including player movement, weapon handling, and the time-shifting abilities.",
+    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "platforms": ["PC", "WebGL"],
+    "my_role": "Lead Gameplay Programmer",
+    "tech_stack": ["Unity", "C#", "Photon PUN"],
+    "project_url": "#",
+    "source_url": "#"
+  },
+  {
+    "title": "Unity Dialogue & Quest Editor",
+    "category": "Tool",
+    "image_thumb": "img/portfolio/portfolio-02-thumbnail.jpg",
+    "image_large": "img/portfolio/portfolio-02-large.jpg",
+    "description_short": "A custom Unity inspector tool for creating and managing narrative content.",
+    "description_long": "To accelerate narrative production, I developed a node-based editor inside of Unity. This tool allows writers and designers to create complex branching dialogues and quests without writing any code. It features data validation, localization support, and direct integration with the game's event system.",
+    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "platforms": ["Unity Editor"],
+    "my_role": "Tools Developer",
+    "tech_stack": ["Unity", "C#", "Editor Scripting", "GraphView API"],
+    "project_url": "#",
+    "source_url": "#"
+  },
+  {
+    "title": "Project Stardust",
+    "category": "Game",
+    "image_thumb": "img/portfolio/portfolio-03-thumbnail.jpg",
+    "image_large": "img/portfolio/portfolio-03-large.jpg",
+    "description_short": "A 2D mobile puzzle game with a generative art style.",
+    "description_long": "Project Stardust is a relaxing puzzle game for iOS and Android. I was the sole developer, responsible for all programming, including the procedural generation of levels and the unique visual effects.",
+    "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "platforms": ["iOS", "Android"],
+    "my_role": "Sole Developer",
+    "tech_stack": ["Unity", "C#", "ShaderLab"],
+    "project_url": "#",
+    "source_url": "#"
+  }
+]
